@@ -24,5 +24,6 @@ Repositorios de otras personas que Alejandro quiere que Claude use cuando una ta
 | Herramienta | Link | Para qué sirve |
 |---|---|---|
 | anthropics/skills | https://github.com/anthropics/skills.git | Colección oficial de habilidades de Anthropic (carpeta `skills/`): webapp-testing (probar apps web), frontend-design, canvas-design y algorithmic-art (diseño y arte), brand-guidelines, theme-factory, web-artifacts-builder, docx, pptx, xlsx, pdf, mcp-builder, claude-api, slack-gif-creator, doc-coauthoring. Cada una trae su `SKILL.md` con instrucciones. |
+| OmniRoute | https://github.com/cheaper-inference/OmniRoute.git | Puerta de enlace de IA: un solo endpoint para cientos de proveedores de modelos, con planes gratis, cambio automático cuando se acaba el límite y ahorro de tokens. Hay que instalarlo como servidor (Node o Docker) y conectar cuentas propias; cada proveedor pone sus límites y términos (el propio repo marca algunos como riesgosos). Útil para abaratar costos de IA en Zula. |
 
 Una herramienta puede servir en los dos grupos (por ejemplo explainroo para videos de Zula).
