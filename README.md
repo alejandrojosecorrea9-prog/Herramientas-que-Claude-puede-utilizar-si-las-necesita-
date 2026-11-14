@@ -17,4 +17,9 @@ Repositorios de otras personas que Alejandro quiere que Claude use cuando una ta
 | motion-architect | https://github.com/Hainrixz/motion-architect.git | Motion graphics y gráficos animados. |
 | creative-architect | https://github.com/Hainrixz/creative-architect.git | Creación de contenido visual. |
 
+## 3. Herramientas generales (sirven para Zula y para video)
+| Herramienta | Link | Para qué sirve |
+|---|---|---|
+| anthropics/skills | https://github.com/anthropics/skills.git | Colección oficial de habilidades de Anthropic (carpeta `skills/`): webapp-testing (probar apps web), frontend-design, canvas-design y algorithmic-art (diseño y arte), brand-guidelines, theme-factory, web-artifacts-builder, docx, pptx, xlsx, pdf, mcp-builder, claude-api, slack-gif-creator, doc-coauthoring. Cada una trae su `SKILL.md` con instrucciones. |
+
 Una herramienta puede servir en los dos grupos (por ejemplo explainroo para videos de Zula).
