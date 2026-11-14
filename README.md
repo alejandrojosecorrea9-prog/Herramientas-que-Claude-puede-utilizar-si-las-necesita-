@@ -7,7 +7,6 @@ Repositorios de otras personas que Alejandro quiere que Claude use cuando una ta
 |---|---|---|
 | agent-browser | https://github.com/vercel-labs/agent-browser.git | Navegador controlado por comandos: abrir páginas, leerlas, hacer clic, llenar formularios y sacar capturas. Probar las pantallas de Zula y automatizar tareas web. |
 | Eigent | https://github.com/eigent-ai/eigent.git | App de escritorio multiagente (Electron). Referencia para organizar el espacio de trabajo y flujos de varios agentes. Necesita computador y claves de modelo. |
-| graphify | https://github.com/Graphify-Labs/graphify.git | Convierte un proyecto de código (y también documentos, PDFs, imágenes y video/audio) en un mapa de conocimiento (`graph.json`) que se consulta con preguntas, sin releer todos los archivos. Sirve para entender y navegar el código de Zula rápido y gastar menos tokens. El código se analiza en local. |
 
 ## 2. Herramientas para creación de video
 | Herramienta | Link | Para qué sirve |
@@ -25,5 +24,6 @@ Repositorios de otras personas que Alejandro quiere que Claude use cuando una ta
 | Herramienta | Link | Para qué sirve |
 |---|---|---|
 | anthropics/skills | https://github.com/anthropics/skills.git | Colección oficial de habilidades de Anthropic (carpeta `skills/`): webapp-testing (probar apps web), frontend-design, canvas-design y algorithmic-art (diseño y arte), brand-guidelines, theme-factory, web-artifacts-builder, docx, pptx, xlsx, pdf, mcp-builder, claude-api, slack-gif-creator, doc-coauthoring. Cada una trae su `SKILL.md` con instrucciones. |
+| graphify | https://github.com/Graphify-Labs/graphify.git | Memoria compartida para Claude y Claude Code: convierte un proyecto (código, documentos, PDFs, imágenes, video/audio) en un mapa de conocimiento guardado en `graph.json`, que se consulta con preguntas (`graphify query`, `explain`, `path`) sin releer todos los archivos. Sirve para recordar y entender los proyectos (Zula, videos) entre sesiones y gastar menos tokens. El código se analiza en local. |
 
 Una herramienta puede servir en los dos grupos (por ejemplo explainroo para videos de Zula).
