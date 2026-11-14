@@ -7,6 +7,7 @@ Repositorios de otras personas que Alejandro quiere que Claude use cuando una ta
 |---|---|---|
 | agent-browser | https://github.com/vercel-labs/agent-browser.git | Navegador controlado por comandos: abrir páginas, leerlas, hacer clic, llenar formularios y sacar capturas. Probar las pantallas de Zula y automatizar tareas web. |
 | Eigent | https://github.com/eigent-ai/eigent.git | App de escritorio multiagente (Electron). Referencia para organizar el espacio de trabajo y flujos de varios agentes. Necesita computador y claves de modelo. |
+| graphify | https://github.com/Graphify-Labs/graphify.git | Convierte un proyecto de código (y también documentos, PDFs, imágenes y video/audio) en un mapa de conocimiento (`graph.json`) que se consulta con preguntas, sin releer todos los archivos. Sirve para entender y navegar el código de Zula rápido y gastar menos tokens. El código se analiza en local. |
 
 ## 2. Herramientas para creación de video
 | Herramienta | Link | Para qué sirve |
