@@ -17,6 +17,7 @@ Repositorios de otras personas que Alejandro quiere que Claude use cuando una ta
 | motion-architect | https://github.com/Hainrixz/motion-architect.git | Motion graphics y gráficos animados. |
 | creative-architect | https://github.com/Hainrixz/creative-architect.git | Creación de contenido visual. |
 | awesome-claude-video-skills | https://github.com/zhuyansen/awesome-claude-video-skills.git | Directorio de 499 repos para que un agente haga video (edición, explicativos, promos, motion graphics, avatares), cada uno con calificación de seguridad. Recomienda explainroo para un video terminado rápido, onetake (https://github.com/feitangyuan/onetake) para una idea sola, y remotion-dev/skills (https://github.com/remotion-dev/skills) para diseño propio en Remotion. Buscar aquí cuando haga falta una herramienta de video que no esté en esta lista. |
+| claude-video (/watch) | https://github.com/bradautomates/claude-video.git | Convierte un video (link o archivo) en fotogramas con tiempo y transcripción, para que el agente "vea" el video: revisar ediciones, videos de referencia o grabaciones. Está pensado para Claude Code; los scripts se pueden usar en el espacio de trabajo. |
 
 ## 3. Herramientas generales (sirven para Zula y para video)
 | Herramienta | Link | Para qué sirve |
